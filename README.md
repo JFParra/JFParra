@@ -6,7 +6,7 @@
 
 Building thoughtful products and agentic workflows that turn complex problems into useful experiences.
 
-[LinkedIn](https://www.linkedin.com/in/juanfparra12/) · [Email](mailto:j.f.parra.001@gmail.com) · [Explore my work](https://github.com/JFParra?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/juanfparra12/) · [Email](mailto:j.f.parra.001@gmail.com) · [Explore my work](https://jfparra.dev)
 
 </div>
 
