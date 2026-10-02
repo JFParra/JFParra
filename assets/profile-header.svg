@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Juan Parra · AI Product Engineer</title>
+  <desc id="desc">Building products and interfaces people love to use. A dark editorial banner with violet orbital artwork.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c0d16"/><stop offset="1" stop-color="#16112d"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="0"><stop stop-color="#a9a0ff"/><stop offset="1" stop-color="#dedaff"/></linearGradient>
+    <radialGradient id="orb" cx="32%" cy="25%" r="75%"><stop stop-color="#b8adff"/><stop offset=".4" stop-color="#7760df"/><stop offset="1" stop-color="#30235d"/></radialGradient>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="378" rx="23" fill="none" stroke="#353046"/>
+  <g fill="none" stroke="#66558e" stroke-width="1">
+    <ellipse cx="1010" cy="190" rx="143" ry="143"/>
+    <ellipse cx="1010" cy="190" rx="184" ry="76" transform="rotate(-32 1010 190)"/>
+    <ellipse cx="1010" cy="190" rx="184" ry="76" transform="rotate(32 1010 190)"/>
+  </g>
+  <circle cx="1010" cy="190" r="82" fill="url(#orb)"/>
+  <circle cx="1119" cy="87" r="6" fill="#c4bbff"/>
+  <circle cx="878" cy="244" r="4" fill="#9787db"/>
+  <path d="M1136 284v14m-7-7h14" stroke="#c4bbff" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="65" fill="#b4a8e4" font-size="13" letter-spacing="3">JUAN PARRA / AI PRODUCT ENGINEER</text>
+    <text x="56" y="142" fill="#faf9ff" font-size="57" font-weight="700">Building products &amp;</text>
+    <text x="56" y="208" fill="#faf9ff" font-size="57" font-weight="700">interfaces people</text>
+    <text x="56" y="274" fill="url(#accent)" font-size="57" font-weight="700">love to use.</text>
+    <text x="60" y="330" fill="#b9b5c8" font-size="17">Curious mind. Creative code. Thoughtful delivery.</text>
+  </g>
+</svg>
